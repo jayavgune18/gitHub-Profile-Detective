@@ -75,5 +75,4 @@ Feel free to reach out to me:
 - [Instagram](https://www.instagram.com/jay.avgune?igsh=ejF2YW44bXNrZ3Ry)
 
 ---
-⭐ If you find this project useful or interesting, please star the repository!
 
