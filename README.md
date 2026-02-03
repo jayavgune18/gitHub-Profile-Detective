@@ -55,15 +55,15 @@ A responsive React application that allows users to search for GitHub profiles a
 ## 🚀 Roadmap
 
 ### ✅ Current Features
-- Fully responsive design for all devices 
-- Smooth animations for better user experience  
-- Real-time fetching of GitHub user data
-- Display of profile information, repositories, followers, and following
+- Fully responsive design for all devices. 
+- Smooth animations for better user experience . 
+- Real-time fetching of GitHub user data.
+- Display of profile information, repositories, followers, and following.
 
 ### 🔮 Upcoming Improvements
--Dark mode toggle 🌙 for comfortable viewing at night  
-- Blog section 📝 to share development tips and tutorials 
-- Additional social media integration 
+-Dark mode toggle 🌙 for comfortable viewing at night.
+- Blog section 📝 to share development tips and tutorials.
+- Additional social media integration.
 
 ---
 
