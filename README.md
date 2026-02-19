@@ -1,4 +1,4 @@
-# 🔍 GitHub Profile Detective App
+# 🔍 GitHub Profile Detective App 
 
 A responsive React application that allows users to search for GitHub profiles and view details in real-time using the GitHub API. Quickly see profile information, repositories, followers, and activity with a clean, modern UI.
 
